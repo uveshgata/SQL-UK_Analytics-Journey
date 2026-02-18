@@ -4,7 +4,7 @@
 Before analysing patterns in property transactions, an analyst must understand the range of values in the dataset.
 
 ## Why this matters
-Extreme values or unrealistic entries can distort analysis such as:
+Extreme values or unrealistic entries can distort analysis such as :
 
 - Average price
 - Market trends
